@@ -1,3 +1,5 @@
+![Dakhla banner](https://github.com/dakhla-io/.github/blob/799a3b38ca6b2513cbef0c39f36580aa4f7ff352/profile/dakhla-banner-wide.png "Dakhla banner")
+
 # Welcome to Dakhla
 
 **Dakhla (داخلہ)** is a centralized, AI-powered platform designed to simplify the undergraduate university admission process in Pakistan.
@@ -16,18 +18,6 @@ Dakhla includes:
 - 📄 **Direct Apply** – One form to apply to multiple universities
 - 📝 **Dakhla Assessment** – Discipline-specific test with auto-grading & anti-cheating
 - 📊 **Recruitment Dashboards** for universities
-
----
-
-## 🛠 Repositories
-
-| Repository         | Description                                         |
-|--------------------|-----------------------------------------------------|
-| [`dakhla-frontend`](https://github.com/dakhla-io/dakhla-frontend) *(Private)*    | React.js-based web UI |
-| [`dakhla-backend`](https://github.com/dakhla-io/dakhla-backend) *(Private)*      | Django REST API with PostgreSQL |
-| [`dakhla-scraper`](https://github.com/dakhla-io/dakhla-scraper) *(Private)*      | Automated data scraping scripts |
-| [`dakhla-assessment`](https://github.com/dakhla-io/dakhla-assessment) *(Private)* | AI-powered exam generation & grading |
-| [`dakhla-docs`](https://github.com/dakhla-io/dakhla-docs)             | All documentation and planning material |
 
 ---
 
