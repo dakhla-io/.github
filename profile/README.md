@@ -16,7 +16,6 @@ Dakhla includes:
 - 📄 **Direct Apply** – One form to apply to multiple universities
 - 📝 **Dakhla Assessment** – Discipline-specific test with auto-grading & anti-cheating
 - 📊 **Recruitment Dashboards** for universities
-- 🤖 **Automated Scrapers** to keep university data fresh
 
 ---
 
@@ -32,22 +31,8 @@ Dakhla includes:
 
 ---
 
-## 👨‍💻 Team Members
-
-- **[Nauman Arif](https://github.com/naumanaarif)**  
-- **[Ismail Dad Khan](https://github.com/IsmailDadKhan)** 
-- **[Hamza Ali Khan](https://github.com/Hamza-asm)**
-
----
-
 ## 📫 Contact & Updates
 
-- Join our waitlist: [https://bit.ly/dakhla-waitlist](https://bit.ly/dakhla-waitlist)  
+- Join the waitlist: [https://bit.ly/dakhla-waitlist](https://bit.ly/dakhla-waitlist)  
 - Join our community on Facebook: [Dakhla Community](https://www.facebook.com/share/g/16vNG4BoFV)
 - Follow us on social media: [Instagram](https://instagram.com/dakhla.io), [Facebook](https://facebook.com/dakhla.io), [LinkedIn](https://www.linkedin.com/company/106107913)
-
----
-
-> ⚠️ This is an academic Final Year Project (FYP) developed under the CS department at Hamdard University. We aim to make this a real-world product post-graduation.
-
----
